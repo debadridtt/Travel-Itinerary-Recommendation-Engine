@@ -1,5 +1,5 @@
 # Travel-Itinerary-Recommendation-Engine
-Content filtering based web-app to recommend best places to visit
+A content-filtering based travel itinerary recommendation engine
 
 The web-app was built for the Sabre Hack which happened in Hackerearth around Oct-Nov 2019. My idea was on a travel recommendation engine.
 
